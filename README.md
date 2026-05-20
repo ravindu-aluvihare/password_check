@@ -1,15 +1,14 @@
-# 🔐 Password Strength Checker (Full Stack Project)
+# 🔐 Password Strength Checker 
 
-A full-stack cybersecurity project that checks password strength using a FastAPI backend and a modern frontend UI.
+A full-stack security project that checks password strength using a FastAPI backend and a frontend UI.
 
 ---
 
 ## 🚀 Features
 
 - Password strength analysis
-- Real-time feedback
-- Strength scoring system (0–6)
-- Modern UI dashboard
+- Scoring system (0–6)
+- UI dashboard
 - REST API backend using FastAPI
 - Frontend using HTML, CSS, JavaScript
 
